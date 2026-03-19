@@ -1,0 +1,25 @@
+snowflake:
+  database: DE_ASSIGNMENT
+  schema: BRONZE
+  file_format: csv_format
+
+tables:
+  - name: transactions
+    path: data/transactions
+    pattern: ".*\\.csv"
+    on_error: CONTINUE
+
+  - name: users
+    path: data/users
+    pattern: ".*\\.csv"
+    on_error: CONTINUE
+
+  - name: products
+    path: data/products
+    pattern: ".*\\.csv"
+    on_error: CONTINUE
+
+  - name: stores
+    path: data/stores
+    pattern: ".*\\.csv"
+    on_error: CONTINUE
