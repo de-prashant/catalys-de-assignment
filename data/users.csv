@@ -1,0 +1,8 @@
+user_id,user_name,email,city,marital_status,signup_date
+U501,Amit Sharma,amit.sharma@email.com,Pune,Married,2025-01-10
+U502,Neha Verma,neha.verma@email.com,Mumbai,Single,2025-02-15
+U503,Rahul Singh,rahul.singh@email.com,Bangalore,Single,2025-03-20
+U504,Priya Nair,priya.nair@email.com,Mumbai,Married,2025-04-05
+U505,Vikram Joshi,vikram.joshi@email.com,Pune,Married,2025-05-12
+U506,Sneha Reddy,sneha.reddy@email.com,Bangalore,Single,2025-06-18
+U507,Karan Mehta,karan.mehta@email.com,Mumbai,Married,2025-07-22

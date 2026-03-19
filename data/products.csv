@@ -1,0 +1,21 @@
+product_id,product_name,category,sub_category,brand,price
+P100,Wireless Mouse,Electronics,Accessories,Logitech,500
+P101,Running Shoes,Fashion,Footwear,Nike,3000
+P102,Coffee Maker,Home,Kitchen,Philips,4500
+P103,T-Shirt,Fashion,Clothing,Adidas,700
+P104,Smartphone,Electronics,Mobiles,Samsung,20000
+P105,Headphones,Electronics,Audio,Sony,1500
+P106,Backpack,Fashion,Accessories,Wildcraft,1200
+P107,Blender,Home,Kitchen,Bajaj,3500
+P108,Laptop,Electronics,Computers,Dell,60000
+P109,Office Chair,Furniture,Seating,Godrej,8000
+P110,Water Bottle,Home,Utility,Milton,250
+P111,Tablet,Electronics,Devices,Apple,15000
+P112,Jeans,Fashion,Clothing,Levis,2000
+P113,Desk Lamp,Home,Lighting,Philips,800
+P114,Sneakers,Fashion,Footwear,Puma,3500
+P115,Air Fryer,Home,Kitchen,Philips,9000
+P116,Keyboard,Electronics,Accessories,HP,1200
+P117,Sofa Cushion,Furniture,Decor,Ikea,600
+P118,Smartwatch,Electronics,Wearables,Noise,10000
+P119,Bookshelf,Furniture,Storage,Ikea,7000
