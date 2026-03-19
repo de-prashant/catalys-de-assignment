@@ -1,0 +1,7990 @@
+[
+  {
+    "event_id": "E1000",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:00:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1001",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:01:00"
+  },
+  {
+    "event_id": "E1002",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:02:00"
+  },
+  {
+    "event_id": "E1003",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:03:00"
+  },
+  {
+    "event_id": "E1004",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:04:00"
+  },
+  {
+    "event_id": "E1005",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:05:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1006",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:06:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1007",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:07:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1008",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:08:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1009",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:09:00"
+  },
+  {
+    "event_id": "E1010",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:10:00"
+  },
+  {
+    "event_id": "E1011",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:11:00"
+  },
+  {
+    "event_id": "E1012",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:12:00"
+  },
+  {
+    "event_id": "E1013",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:13:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1014",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:14:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1015",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:15:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1016",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:16:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1017",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:17:00"
+  },
+  {
+    "event_id": "E1018",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:18:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1019",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:19:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1020",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:20:00"
+  },
+  {
+    "event_id": "E1021",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:21:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1022",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:22:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1023",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:23:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1024",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:24:00"
+  },
+  {
+    "event_id": "E1025",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:25:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1026",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:26:00"
+  },
+  {
+    "event_id": "E1027",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:27:00"
+  },
+  {
+    "event_id": "E1028",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:28:00"
+  },
+  {
+    "event_id": "E1029",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:29:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1030",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:30:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1031",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:31:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1032",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:32:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1033",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:33:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1034",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:34:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1035",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:35:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1036",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:36:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1037",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:37:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1038",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:38:00"
+  },
+  {
+    "event_id": "E1039",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:39:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1040",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:40:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1041",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:41:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1042",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:42:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1043",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:43:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1044",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:44:00"
+  },
+  {
+    "event_id": "E1045",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:45:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1046",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:46:00"
+  },
+  {
+    "event_id": "E1047",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:47:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1048",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:48:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1049",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:49:00"
+  },
+  {
+    "event_id": "E1050",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:50:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1051",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:51:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1052",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:52:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1053",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:53:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1054",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:54:00"
+  },
+  {
+    "event_id": "E1055",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T09:55:00"
+  },
+  {
+    "event_id": "E1056",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T09:56:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1057",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:57:00"
+  },
+  {
+    "event_id": "E1058",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:58:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1059",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T09:59:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1060",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:00:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1061",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:01:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1062",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:02:00"
+  },
+  {
+    "event_id": "E1063",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:03:00"
+  },
+  {
+    "event_id": "E1064",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:04:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1065",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:05:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1066",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:06:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1067",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:07:00"
+  },
+  {
+    "event_id": "E1068",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:08:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1069",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:09:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1070",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:10:00"
+  },
+  {
+    "event_id": "E1071",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:11:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1072",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:12:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1073",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:13:00"
+  },
+  {
+    "event_id": "E1074",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:14:00"
+  },
+  {
+    "event_id": "E1075",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:15:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1076",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:16:00"
+  },
+  {
+    "event_id": "E1077",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:17:00"
+  },
+  {
+    "event_id": "E1078",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:18:00"
+  },
+  {
+    "event_id": "E1079",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:19:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1080",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:20:00"
+  },
+  {
+    "event_id": "E1081",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:21:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1082",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:22:00"
+  },
+  {
+    "event_id": "E1083",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:23:00"
+  },
+  {
+    "event_id": "E1084",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:24:00"
+  },
+  {
+    "event_id": "E1085",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:25:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1086",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:26:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1087",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:27:00"
+  },
+  {
+    "event_id": "E1088",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:28:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1089",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:29:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1090",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:30:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1091",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:31:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1092",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:32:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1093",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:33:00"
+  },
+  {
+    "event_id": "E1094",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:34:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1095",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:35:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1096",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:36:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1097",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:37:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1098",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:38:00"
+  },
+  {
+    "event_id": "E1099",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:39:00"
+  },
+  {
+    "event_id": "E1100",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:40:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1101",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:41:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1102",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:42:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1103",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:43:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1104",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:44:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1105",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:45:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1106",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:46:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1107",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:47:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1108",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:48:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1109",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:49:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1110",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:50:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1111",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:51:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1112",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:52:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1113",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:53:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1114",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:54:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1115",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:55:00"
+  },
+  {
+    "event_id": "E1116",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:56:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1117",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T10:57:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1118",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T10:58:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1119",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T10:59:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1120",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:00:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1121",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:01:00"
+  },
+  {
+    "event_id": "E1122",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:02:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1123",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:03:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1124",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:04:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1125",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:05:00"
+  },
+  {
+    "event_id": "E1126",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:06:00"
+  },
+  {
+    "event_id": "E1127",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:07:00"
+  },
+  {
+    "event_id": "E1128",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:08:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1129",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:09:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1130",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:10:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1131",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:11:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1132",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:12:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1133",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:13:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1134",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:14:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1135",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:15:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1136",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:16:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1137",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:17:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1138",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:18:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1139",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:19:00"
+  },
+  {
+    "event_id": "E1140",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:20:00"
+  },
+  {
+    "event_id": "E1141",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:21:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1142",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:22:00"
+  },
+  {
+    "event_id": "E1143",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:23:00"
+  },
+  {
+    "event_id": "E1144",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:24:00"
+  },
+  {
+    "event_id": "E1145",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:25:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1146",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:26:00"
+  },
+  {
+    "event_id": "E1147",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:27:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1148",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:28:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1149",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:29:00"
+  },
+  {
+    "event_id": "E1150",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:30:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1151",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:31:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1152",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:32:00"
+  },
+  {
+    "event_id": "E1153",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:33:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1154",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:34:00"
+  },
+  {
+    "event_id": "E1155",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:35:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1156",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:36:00"
+  },
+  {
+    "event_id": "E1157",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:37:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1158",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:38:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1159",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:39:00"
+  },
+  {
+    "event_id": "E1160",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:40:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1161",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:41:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1162",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:42:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1163",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:43:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1164",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:44:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1165",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:45:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1166",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:46:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1167",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:47:00"
+  },
+  {
+    "event_id": "E1168",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:48:00"
+  },
+  {
+    "event_id": "E1169",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:49:00"
+  },
+  {
+    "event_id": "E1170",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:50:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1171",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:51:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1172",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:52:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1173",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:53:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1174",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:54:00"
+  },
+  {
+    "event_id": "E1175",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T11:55:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1176",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:56:00"
+  },
+  {
+    "event_id": "E1177",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:57:00"
+  },
+  {
+    "event_id": "E1178",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T11:58:00"
+  },
+  {
+    "event_id": "E1179",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T11:59:00"
+  },
+  {
+    "event_id": "E1180",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:00:00"
+  },
+  {
+    "event_id": "E1181",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:01:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1182",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:02:00"
+  },
+  {
+    "event_id": "E1183",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:03:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1184",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:04:00"
+  },
+  {
+    "event_id": "E1185",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:05:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1186",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:06:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1187",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:07:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1188",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:08:00"
+  },
+  {
+    "event_id": "E1189",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:09:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1190",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:10:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1191",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:11:00"
+  },
+  {
+    "event_id": "E1192",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:12:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1193",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:13:00"
+  },
+  {
+    "event_id": "E1194",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:14:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1195",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:15:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1196",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:16:00"
+  },
+  {
+    "event_id": "E1197",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:17:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1198",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:18:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1199",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:19:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1200",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:20:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1201",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:21:00"
+  },
+  {
+    "event_id": "E1202",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:22:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1203",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:23:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1204",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:24:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1205",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:25:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1206",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:26:00"
+  },
+  {
+    "event_id": "E1207",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:27:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1208",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:28:00"
+  },
+  {
+    "event_id": "E1209",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:29:00"
+  },
+  {
+    "event_id": "E1210",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:30:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1211",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:31:00"
+  },
+  {
+    "event_id": "E1212",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:32:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1213",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:33:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1214",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:34:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1215",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:35:00"
+  },
+  {
+    "event_id": "E1216",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:36:00"
+  },
+  {
+    "event_id": "E1217",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:37:00"
+  },
+  {
+    "event_id": "E1218",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:38:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1219",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:39:00"
+  },
+  {
+    "event_id": "E1220",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:40:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1221",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:41:00"
+  },
+  {
+    "event_id": "E1222",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:42:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1223",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:43:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1224",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:44:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1225",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:45:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1226",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:46:00"
+  },
+  {
+    "event_id": "E1227",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:47:00"
+  },
+  {
+    "event_id": "E1228",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:48:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1229",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:49:00"
+  },
+  {
+    "event_id": "E1230",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:50:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1231",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:51:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1232",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:52:00"
+  },
+  {
+    "event_id": "E1233",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:53:00"
+  },
+  {
+    "event_id": "E1234",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:54:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1235",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:55:00"
+  },
+  {
+    "event_id": "E1236",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T12:56:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1237",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:57:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1238",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T12:58:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1239",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T12:59:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1240",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:00:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1241",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:01:00"
+  },
+  {
+    "event_id": "E1242",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:02:00"
+  },
+  {
+    "event_id": "E1243",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:03:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1244",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:04:00"
+  },
+  {
+    "event_id": "E1245",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:05:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1246",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:06:00"
+  },
+  {
+    "event_id": "E1247",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:07:00"
+  },
+  {
+    "event_id": "E1248",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:08:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1249",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:09:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1250",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:10:00"
+  },
+  {
+    "event_id": "E1251",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:11:00"
+  },
+  {
+    "event_id": "E1252",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:12:00"
+  },
+  {
+    "event_id": "E1253",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:13:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1254",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:14:00"
+  },
+  {
+    "event_id": "E1255",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:15:00"
+  },
+  {
+    "event_id": "E1256",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:16:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1257",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:17:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1258",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:18:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1259",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:19:00"
+  },
+  {
+    "event_id": "E1260",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:20:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1261",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:21:00"
+  },
+  {
+    "event_id": "E1262",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:22:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1263",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:23:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1264",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:24:00"
+  },
+  {
+    "event_id": "E1265",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:25:00"
+  },
+  {
+    "event_id": "E1266",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:26:00"
+  },
+  {
+    "event_id": "E1267",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:27:00"
+  },
+  {
+    "event_id": "E1268",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:28:00"
+  },
+  {
+    "event_id": "E1269",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:29:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1270",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:30:00"
+  },
+  {
+    "event_id": "E1271",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:31:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1272",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:32:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1273",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:33:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1274",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:34:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1275",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:35:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1276",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:36:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1277",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:37:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1278",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:38:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1279",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:39:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1280",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:40:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1281",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:41:00"
+  },
+  {
+    "event_id": "E1282",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:42:00"
+  },
+  {
+    "event_id": "E1283",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:43:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1284",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:44:00"
+  },
+  {
+    "event_id": "E1285",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:45:00"
+  },
+  {
+    "event_id": "E1286",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:46:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1287",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:47:00"
+  },
+  {
+    "event_id": "E1288",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:48:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1289",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T13:49:00"
+  },
+  {
+    "event_id": "E1290",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:50:00"
+  },
+  {
+    "event_id": "E1291",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:51:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1292",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:52:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1293",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:53:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1294",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:54:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1295",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:55:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1296",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:56:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1297",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:57:00"
+  },
+  {
+    "event_id": "E1298",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T13:58:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1299",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T13:59:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1300",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:00:00"
+  },
+  {
+    "event_id": "E1301",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:01:00"
+  },
+  {
+    "event_id": "E1302",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:02:00"
+  },
+  {
+    "event_id": "E1303",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:03:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1304",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:04:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1305",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:05:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1306",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:06:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1307",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:07:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1308",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:08:00"
+  },
+  {
+    "event_id": "E1309",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:09:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1310",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:10:00"
+  },
+  {
+    "event_id": "E1311",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:11:00"
+  },
+  {
+    "event_id": "E1312",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:12:00"
+  },
+  {
+    "event_id": "E1313",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:13:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1314",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:14:00"
+  },
+  {
+    "event_id": "E1315",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:15:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1316",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:16:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1317",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:17:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1318",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:18:00"
+  },
+  {
+    "event_id": "E1319",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:19:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1320",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:20:00"
+  },
+  {
+    "event_id": "E1321",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:21:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1322",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:22:00"
+  },
+  {
+    "event_id": "E1323",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:23:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1324",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:24:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1325",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:25:00"
+  },
+  {
+    "event_id": "E1326",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:26:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1327",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:27:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1328",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:28:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1329",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:29:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1330",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:30:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1331",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:31:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1332",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:32:00"
+  },
+  {
+    "event_id": "E1333",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:33:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1334",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:34:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1335",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:35:00"
+  },
+  {
+    "event_id": "E1336",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:36:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1337",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:37:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1338",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:38:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1339",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:39:00"
+  },
+  {
+    "event_id": "E1340",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:40:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1341",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:41:00"
+  },
+  {
+    "event_id": "E1342",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:42:00"
+  },
+  {
+    "event_id": "E1343",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:43:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1344",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:44:00"
+  },
+  {
+    "event_id": "E1345",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:45:00"
+  },
+  {
+    "event_id": "E1346",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:46:00"
+  },
+  {
+    "event_id": "E1347",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:47:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1348",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:48:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1349",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:49:00"
+  },
+  {
+    "event_id": "E1350",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:50:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1351",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:51:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1352",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T14:52:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1353",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:53:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1354",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:54:00"
+  },
+  {
+    "event_id": "E1355",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:55:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1356",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:56:00"
+  },
+  {
+    "event_id": "E1357",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T14:57:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1358",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:58:00"
+  },
+  {
+    "event_id": "E1359",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T14:59:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1360",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:00:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1361",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:01:00"
+  },
+  {
+    "event_id": "E1362",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:02:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1363",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:03:00"
+  },
+  {
+    "event_id": "E1364",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:04:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1365",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:05:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1366",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:06:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1367",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:07:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1368",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:08:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1369",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:09:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1370",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:10:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1371",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:11:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1372",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:12:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1373",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:13:00"
+  },
+  {
+    "event_id": "E1374",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:14:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1375",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:15:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1376",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:16:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1377",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:17:00"
+  },
+  {
+    "event_id": "E1378",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:18:00"
+  },
+  {
+    "event_id": "E1379",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:19:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1380",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:20:00"
+  },
+  {
+    "event_id": "E1381",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:21:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1382",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:22:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1383",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:23:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1384",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:24:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1385",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:25:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1386",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:26:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1387",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:27:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1388",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:28:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1389",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:29:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1390",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:30:00"
+  },
+  {
+    "event_id": "E1391",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:31:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1392",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:32:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1393",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:33:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1394",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:34:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1395",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:35:00"
+  },
+  {
+    "event_id": "E1396",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:36:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1397",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:37:00"
+  },
+  {
+    "event_id": "E1398",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:38:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1399",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:39:00"
+  },
+  {
+    "event_id": "E1400",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:40:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1401",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:41:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1402",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:42:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1403",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:43:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1404",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:44:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1405",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:45:00"
+  },
+  {
+    "event_id": "E1406",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:46:00"
+  },
+  {
+    "event_id": "E1407",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:47:00"
+  },
+  {
+    "event_id": "E1408",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:48:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1409",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:49:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1410",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:50:00"
+  },
+  {
+    "event_id": "E1411",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:51:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1412",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:52:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1413",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:53:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1414",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:54:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1415",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T15:55:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1416",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:56:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1417",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:57:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1418",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T15:58:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1419",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T15:59:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1420",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:00:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1421",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:01:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1422",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:02:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1423",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:03:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1424",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:04:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1425",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:05:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1426",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:06:00"
+  },
+  {
+    "event_id": "E1427",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:07:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1428",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:08:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1429",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:09:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1430",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:10:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1431",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:11:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1432",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:12:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1433",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:13:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1434",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:14:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1435",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:15:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1436",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:16:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1437",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:17:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1438",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:18:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1439",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:19:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1440",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:20:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1441",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:21:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1442",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:22:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1443",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:23:00"
+  },
+  {
+    "event_id": "E1444",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:24:00"
+  },
+  {
+    "event_id": "E1445",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:25:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1446",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:26:00"
+  },
+  {
+    "event_id": "E1447",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:27:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1448",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:28:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1449",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:29:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1450",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:30:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1451",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:31:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1452",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:32:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1453",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:33:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1454",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:34:00"
+  },
+  {
+    "event_id": "E1455",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:35:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1456",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:36:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1457",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:37:00"
+  },
+  {
+    "event_id": "E1458",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:38:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1459",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:39:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1460",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:40:00"
+  },
+  {
+    "event_id": "E1461",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:41:00"
+  },
+  {
+    "event_id": "E1462",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:42:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1463",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:43:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1464",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:44:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1465",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:45:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1466",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:46:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1467",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:47:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1468",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:48:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1469",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:49:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1470",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:50:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1471",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:51:00"
+  },
+  {
+    "event_id": "E1472",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:52:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1473",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:53:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1474",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:54:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1475",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:55:00"
+  },
+  {
+    "event_id": "E1476",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T16:56:00"
+  },
+  {
+    "event_id": "E1477",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:57:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1478",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T16:58:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1479",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T16:59:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1480",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:00:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1481",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:01:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1482",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:02:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1483",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:03:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1484",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:04:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1485",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:05:00"
+  },
+  {
+    "event_id": "E1486",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:06:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1487",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:07:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1488",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:08:00"
+  },
+  {
+    "event_id": "E1489",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:09:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1490",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:10:00"
+  },
+  {
+    "event_id": "E1491",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:11:00"
+  },
+  {
+    "event_id": "E1492",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:12:00"
+  },
+  {
+    "event_id": "E1493",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:13:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1494",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:14:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1495",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:15:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1496",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:16:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1497",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:17:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1498",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:18:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1499",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:19:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1500",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:20:00"
+  },
+  {
+    "event_id": "E1501",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:21:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1502",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:22:00"
+  },
+  {
+    "event_id": "E1503",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:23:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1504",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:24:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1505",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:25:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1506",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:26:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1507",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:27:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1508",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:28:00"
+  },
+  {
+    "event_id": "E1509",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:29:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1510",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:30:00"
+  },
+  {
+    "event_id": "E1511",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:31:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1512",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:32:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1513",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:33:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1514",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:34:00"
+  },
+  {
+    "event_id": "E1515",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:35:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1516",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:36:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1517",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:37:00"
+  },
+  {
+    "event_id": "E1518",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:38:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1519",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:39:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1520",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:40:00"
+  },
+  {
+    "event_id": "E1521",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:41:00"
+  },
+  {
+    "event_id": "E1522",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:42:00"
+  },
+  {
+    "event_id": "E1523",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:43:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1524",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:44:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1525",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:45:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1526",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:46:00"
+  },
+  {
+    "event_id": "E1527",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:47:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1528",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:48:00"
+  },
+  {
+    "event_id": "E1529",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:49:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1530",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:50:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1531",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:51:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1532",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:52:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1533",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:53:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1534",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T17:54:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1535",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:55:00"
+  },
+  {
+    "event_id": "E1536",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:56:00"
+  },
+  {
+    "event_id": "E1537",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:57:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1538",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T17:58:00"
+  },
+  {
+    "event_id": "E1539",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T17:59:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1540",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:00:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1541",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:01:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1542",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:02:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1543",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:03:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1544",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:04:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1545",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:05:00"
+  },
+  {
+    "event_id": "E1546",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:06:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1547",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:07:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1548",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:08:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1549",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:09:00"
+  },
+  {
+    "event_id": "E1550",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:10:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1551",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:11:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1552",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:12:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1553",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:13:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1554",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:14:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1555",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:15:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1556",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:16:00"
+  },
+  {
+    "event_id": "E1557",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:17:00"
+  },
+  {
+    "event_id": "E1558",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:18:00"
+  },
+  {
+    "event_id": "E1559",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:19:00"
+  },
+  {
+    "event_id": "E1560",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:20:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1561",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:21:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1562",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:22:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1563",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:23:00"
+  },
+  {
+    "event_id": "E1564",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:24:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1565",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:25:00"
+  },
+  {
+    "event_id": "E1566",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:26:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1567",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:27:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1568",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:28:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1569",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:29:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1570",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:30:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1571",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:31:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1572",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:32:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1573",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:33:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1574",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:34:00"
+  },
+  {
+    "event_id": "E1575",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:35:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1576",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:36:00"
+  },
+  {
+    "event_id": "E1577",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:37:00"
+  },
+  {
+    "event_id": "E1578",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:38:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1579",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:39:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1580",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:40:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1581",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:41:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1582",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:42:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1583",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:43:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1584",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:44:00"
+  },
+  {
+    "event_id": "E1585",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:45:00"
+  },
+  {
+    "event_id": "E1586",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:46:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1587",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:47:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1588",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:48:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1589",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:49:00"
+  },
+  {
+    "event_id": "E1590",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:50:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1591",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:51:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1592",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:52:00"
+  },
+  {
+    "event_id": "E1593",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:53:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1594",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:54:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1595",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T18:55:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1596",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:56:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1597",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:57:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1598",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T18:58:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1599",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T18:59:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1600",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:00:00"
+  },
+  {
+    "event_id": "E1601",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:01:00"
+  },
+  {
+    "event_id": "E1602",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:02:00"
+  },
+  {
+    "event_id": "E1603",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:03:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1604",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:04:00"
+  },
+  {
+    "event_id": "E1605",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:05:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1606",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:06:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1607",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:07:00"
+  },
+  {
+    "event_id": "E1608",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:08:00"
+  },
+  {
+    "event_id": "E1609",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:09:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1610",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:10:00"
+  },
+  {
+    "event_id": "E1611",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:11:00"
+  },
+  {
+    "event_id": "E1612",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:12:00"
+  },
+  {
+    "event_id": "E1613",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:13:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1614",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:14:00"
+  },
+  {
+    "event_id": "E1615",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:15:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1616",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:16:00"
+  },
+  {
+    "event_id": "E1617",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:17:00"
+  },
+  {
+    "event_id": "E1618",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:18:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1619",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:19:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1620",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:20:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1621",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:21:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1622",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:22:00"
+  },
+  {
+    "event_id": "E1623",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:23:00"
+  },
+  {
+    "event_id": "E1624",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:24:00"
+  },
+  {
+    "event_id": "E1625",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:25:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1626",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:26:00"
+  },
+  {
+    "event_id": "E1627",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:27:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1628",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:28:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1629",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:29:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1630",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:30:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1631",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:31:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1632",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:32:00"
+  },
+  {
+    "event_id": "E1633",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:33:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1634",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:34:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1635",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:35:00"
+  },
+  {
+    "event_id": "E1636",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:36:00"
+  },
+  {
+    "event_id": "E1637",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:37:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1638",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:38:00"
+  },
+  {
+    "event_id": "E1639",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:39:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1640",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:40:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1641",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:41:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1642",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:42:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1643",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:43:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1644",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:44:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1645",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:45:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1646",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:46:00"
+  },
+  {
+    "event_id": "E1647",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:47:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1648",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:48:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1649",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:49:00"
+  },
+  {
+    "event_id": "E1650",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:50:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1651",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T19:51:00"
+  },
+  {
+    "event_id": "E1652",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:52:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1653",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:53:00"
+  },
+  {
+    "event_id": "E1654",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:54:00"
+  },
+  {
+    "event_id": "E1655",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:55:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1656",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T19:56:00"
+  },
+  {
+    "event_id": "E1657",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:57:00",
+    "product_id": "P117",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1658",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:58:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1659",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T19:59:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1660",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:00:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1661",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:01:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1662",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:02:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1663",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:03:00"
+  },
+  {
+    "event_id": "E1664",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:04:00"
+  },
+  {
+    "event_id": "E1665",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:05:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1666",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:06:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1667",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:07:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1668",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:08:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1669",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:09:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1670",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:10:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1671",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:11:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1672",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:12:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1673",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:13:00"
+  },
+  {
+    "event_id": "E1674",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:14:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1675",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:15:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1676",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:16:00"
+  },
+  {
+    "event_id": "E1677",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:17:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1678",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:18:00"
+  },
+  {
+    "event_id": "E1679",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:19:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1680",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:20:00"
+  },
+  {
+    "event_id": "E1681",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:21:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1682",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:22:00"
+  },
+  {
+    "event_id": "E1683",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:23:00"
+  },
+  {
+    "event_id": "E1684",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:24:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1685",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:25:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1686",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:26:00"
+  },
+  {
+    "event_id": "E1687",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:27:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1688",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:28:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1689",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:29:00"
+  },
+  {
+    "event_id": "E1690",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:30:00"
+  },
+  {
+    "event_id": "E1691",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:31:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1692",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:32:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1693",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:33:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1694",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:34:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1695",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:35:00"
+  },
+  {
+    "event_id": "E1696",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:36:00"
+  },
+  {
+    "event_id": "E1697",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:37:00"
+  },
+  {
+    "event_id": "E1698",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:38:00"
+  },
+  {
+    "event_id": "E1699",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:39:00"
+  },
+  {
+    "event_id": "E1700",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:40:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1701",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:41:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1702",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:42:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1703",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:43:00"
+  },
+  {
+    "event_id": "E1704",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:44:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1705",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:45:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1706",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:46:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1707",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:47:00"
+  },
+  {
+    "event_id": "E1708",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:48:00"
+  },
+  {
+    "event_id": "E1709",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:49:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1710",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:50:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1711",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:51:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1712",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:52:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1713",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:53:00"
+  },
+  {
+    "event_id": "E1714",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:54:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1715",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:55:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1716",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T20:56:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1717",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:57:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1718",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T20:58:00"
+  },
+  {
+    "event_id": "E1719",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T20:59:00"
+  },
+  {
+    "event_id": "E1720",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:00:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1721",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:01:00"
+  },
+  {
+    "event_id": "E1722",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:02:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1723",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:03:00"
+  },
+  {
+    "event_id": "E1724",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:04:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1725",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:05:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1726",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:06:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1727",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:07:00"
+  },
+  {
+    "event_id": "E1728",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:08:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1729",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:09:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1730",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:10:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1731",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:11:00"
+  },
+  {
+    "event_id": "E1732",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:12:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1733",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:13:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1734",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:14:00"
+  },
+  {
+    "event_id": "E1735",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:15:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1736",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:16:00"
+  },
+  {
+    "event_id": "E1737",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:17:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1738",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:18:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1739",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:19:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1740",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:20:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1741",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:21:00"
+  },
+  {
+    "event_id": "E1742",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:22:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1743",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:23:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1744",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:24:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1745",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:25:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1746",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:26:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1747",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:27:00"
+  },
+  {
+    "event_id": "E1748",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:28:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1749",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:29:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1750",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:30:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1751",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:31:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1752",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:32:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1753",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:33:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1754",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:34:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1755",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:35:00"
+  },
+  {
+    "event_id": "E1756",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:36:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1757",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:37:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1758",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:38:00"
+  },
+  {
+    "event_id": "E1759",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:39:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1760",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:40:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1761",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:41:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1762",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:42:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1763",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:43:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1764",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:44:00"
+  },
+  {
+    "event_id": "E1765",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:45:00"
+  },
+  {
+    "event_id": "E1766",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:46:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1767",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:47:00"
+  },
+  {
+    "event_id": "E1768",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:48:00"
+  },
+  {
+    "event_id": "E1769",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:49:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1770",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:50:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1771",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:51:00"
+  },
+  {
+    "event_id": "E1772",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:52:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1773",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:53:00"
+  },
+  {
+    "event_id": "E1774",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:54:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1775",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T21:55:00",
+    "product_id": "P105",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1776",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:56:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1777",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T21:57:00"
+  },
+  {
+    "event_id": "E1778",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:58:00"
+  },
+  {
+    "event_id": "E1779",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T21:59:00"
+  },
+  {
+    "event_id": "E1780",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:00:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1781",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:01:00"
+  },
+  {
+    "event_id": "E1782",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:02:00"
+  },
+  {
+    "event_id": "E1783",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:03:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1784",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:04:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1785",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:05:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1786",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:06:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1787",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:07:00"
+  },
+  {
+    "event_id": "E1788",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:08:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1789",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:09:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1790",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:10:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1791",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:11:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1792",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:12:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1793",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:13:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1794",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:14:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1795",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:15:00"
+  },
+  {
+    "event_id": "E1796",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:16:00"
+  },
+  {
+    "event_id": "E1797",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:17:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1798",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:18:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1799",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:19:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1800",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:20:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1801",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:21:00"
+  },
+  {
+    "event_id": "E1802",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:22:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1803",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:23:00"
+  },
+  {
+    "event_id": "E1804",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:24:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1805",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:25:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1806",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:26:00"
+  },
+  {
+    "event_id": "E1807",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:27:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1808",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:28:00"
+  },
+  {
+    "event_id": "E1809",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:29:00"
+  },
+  {
+    "event_id": "E1810",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:30:00"
+  },
+  {
+    "event_id": "E1811",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:31:00"
+  },
+  {
+    "event_id": "E1812",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:32:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1813",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:33:00"
+  },
+  {
+    "event_id": "E1814",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:34:00"
+  },
+  {
+    "event_id": "E1815",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:35:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1816",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:36:00"
+  },
+  {
+    "event_id": "E1817",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:37:00"
+  },
+  {
+    "event_id": "E1818",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:38:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1819",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:39:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1820",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:40:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1821",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:41:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1822",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:42:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1823",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:43:00"
+  },
+  {
+    "event_id": "E1824",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:44:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1825",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:45:00",
+    "product_id": "P100",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1826",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:46:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1827",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:47:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1828",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:48:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1829",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:49:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1830",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:50:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1831",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:51:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1832",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:52:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1833",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:53:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1834",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:54:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1835",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:55:00"
+  },
+  {
+    "event_id": "E1836",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:56:00"
+  },
+  {
+    "event_id": "E1837",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T22:57:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1838",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T22:58:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1839",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T22:59:00"
+  },
+  {
+    "event_id": "E1840",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:00:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1841",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:01:00"
+  },
+  {
+    "event_id": "E1842",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:02:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1843",
+    "user_id": "U502",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:03:00"
+  },
+  {
+    "event_id": "E1844",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:04:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1845",
+    "user_id": "U506",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:05:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1846",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:06:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1847",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:07:00"
+  },
+  {
+    "event_id": "E1848",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:08:00"
+  },
+  {
+    "event_id": "E1849",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:09:00"
+  },
+  {
+    "event_id": "E1850",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:10:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1851",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:11:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1852",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:12:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1853",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:13:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1854",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:14:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1855",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:15:00"
+  },
+  {
+    "event_id": "E1856",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:16:00"
+  },
+  {
+    "event_id": "E1857",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:17:00"
+  },
+  {
+    "event_id": "E1858",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:18:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1859",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:19:00"
+  },
+  {
+    "event_id": "E1860",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:20:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1861",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:21:00"
+  },
+  {
+    "event_id": "E1862",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:22:00"
+  },
+  {
+    "event_id": "E1863",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:23:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1864",
+    "user_id": "U501",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:24:00",
+    "product_id": "P104",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1865",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:25:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1866",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:26:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1867",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:27:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1868",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:28:00"
+  },
+  {
+    "event_id": "E1869",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:29:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1870",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:30:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1871",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:31:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1872",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:32:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1873",
+    "user_id": "U505",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:33:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1874",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:34:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1875",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:35:00"
+  },
+  {
+    "event_id": "E1876",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:36:00"
+  },
+  {
+    "event_id": "E1877",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:37:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1878",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:38:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1879",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:39:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1880",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:40:00"
+  },
+  {
+    "event_id": "E1881",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:41:00"
+  },
+  {
+    "event_id": "E1882",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:42:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1883",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:43:00"
+  },
+  {
+    "event_id": "E1884",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:44:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1885",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:45:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1886",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:46:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1887",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:47:00",
+    "product_id": "P112",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1888",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:48:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1889",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:49:00"
+  },
+  {
+    "event_id": "E1890",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:50:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1891",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:51:00"
+  },
+  {
+    "event_id": "E1892",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:52:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1893",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:53:00",
+    "product_id": "P102",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1894",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:54:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1895",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-01T23:55:00"
+  },
+  {
+    "event_id": "E1896",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-01T23:56:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1897",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:57:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1898",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:58:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1899",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-01T23:59:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1900",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:00:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1901",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:01:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1902",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:02:00"
+  },
+  {
+    "event_id": "E1903",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:03:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1904",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:04:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1905",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:05:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1906",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:06:00",
+    "product_id": "P119",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1907",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:07:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1908",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:08:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1909",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:09:00"
+  },
+  {
+    "event_id": "E1910",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:10:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1911",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:11:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1912",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:12:00"
+  },
+  {
+    "event_id": "E1913",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:13:00"
+  },
+  {
+    "event_id": "E1914",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:14:00"
+  },
+  {
+    "event_id": "E1915",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:15:00",
+    "product_id": "P113",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1916",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:16:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1917",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:17:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1918",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:18:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1919",
+    "user_id": "U503",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:19:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1920",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:20:00"
+  },
+  {
+    "event_id": "E1921",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:21:00"
+  },
+  {
+    "event_id": "E1922",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:22:00"
+  },
+  {
+    "event_id": "E1923",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:23:00"
+  },
+  {
+    "event_id": "E1924",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:24:00"
+  },
+  {
+    "event_id": "E1925",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:25:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1926",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:26:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1927",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:27:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1928",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:28:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1929",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:29:00"
+  },
+  {
+    "event_id": "E1930",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:30:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1931",
+    "user_id": "U504",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:31:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1932",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:32:00"
+  },
+  {
+    "event_id": "E1933",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:33:00"
+  },
+  {
+    "event_id": "E1934",
+    "user_id": "U503",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:34:00"
+  },
+  {
+    "event_id": "E1935",
+    "user_id": "U504",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:35:00",
+    "product_id": "P106",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1936",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:36:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1937",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:37:00"
+  },
+  {
+    "event_id": "E1938",
+    "user_id": "U505",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:38:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1939",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:39:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1940",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:40:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1941",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:41:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1942",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:42:00"
+  },
+  {
+    "event_id": "E1943",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:43:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1944",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:44:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1945",
+    "user_id": "U504",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:45:00"
+  },
+  {
+    "event_id": "E1946",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:46:00"
+  },
+  {
+    "event_id": "E1947",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T00:47:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1948",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:48:00",
+    "product_id": "P109",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1949",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:49:00",
+    "page": "cart"
+  },
+  {
+    "event_id": "E1950",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:50:00"
+  },
+  {
+    "event_id": "E1951",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:51:00"
+  },
+  {
+    "event_id": "E1952",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:52:00"
+  },
+  {
+    "event_id": "E1953",
+    "user_id": "U502",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:53:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1954",
+    "user_id": "U506",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:54:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1955",
+    "user_id": "U505",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:55:00",
+    "product_id": "P108",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1956",
+    "user_id": "U506",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:56:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1957",
+    "user_id": "U502",
+    "event_type": "checkout_start",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:57:00"
+  },
+  {
+    "event_id": "E1958",
+    "user_id": "U501",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T00:58:00"
+  },
+  {
+    "event_id": "E1959",
+    "user_id": "U507",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T00:59:00"
+  },
+  {
+    "event_id": "E1960",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:00:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1961",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:01:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1962",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:02:00"
+  },
+  {
+    "event_id": "E1963",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:03:00"
+  },
+  {
+    "event_id": "E1964",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:04:00",
+    "product_id": "P116",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1965",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:05:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1966",
+    "user_id": "U507",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:06:00",
+    "product_id": "P107",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1967",
+    "user_id": "U504",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:07:00",
+    "product_id": "P101",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1968",
+    "user_id": "U502",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:08:00",
+    "product_id": "P114",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1969",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:09:00"
+  },
+  {
+    "event_id": "E1970",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:10:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1971",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:11:00"
+  },
+  {
+    "event_id": "E1972",
+    "user_id": "U501",
+    "event_type": "purchase",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:12:00"
+  },
+  {
+    "event_id": "E1973",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:13:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1974",
+    "user_id": "U506",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:14:00"
+  },
+  {
+    "event_id": "E1975",
+    "user_id": "U505",
+    "event_type": "purchase",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:15:00"
+  },
+  {
+    "event_id": "E1976",
+    "user_id": "U506",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:16:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1977",
+    "user_id": "U507",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:17:00",
+    "product_id": "P111",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1978",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:18:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1979",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:19:00",
+    "product_id": "P103",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1980",
+    "user_id": "U501",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:20:00",
+    "search_query": "coffee maker"
+  },
+  {
+    "event_id": "E1981",
+    "user_id": "U502",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:21:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1982",
+    "user_id": "U503",
+    "event_type": "product_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:22:00",
+    "product_id": "P118",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1983",
+    "user_id": "U501",
+    "event_type": "product_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:23:00",
+    "product_id": "P115",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1984",
+    "user_id": "U506",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:24:00"
+  },
+  {
+    "event_id": "E1985",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:25:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1986",
+    "user_id": "U504",
+    "event_type": "purchase",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:26:00"
+  },
+  {
+    "event_id": "E1987",
+    "user_id": "U503",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:27:00",
+    "search_query": "shoes"
+  },
+  {
+    "event_id": "E1988",
+    "user_id": "U505",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:28:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1989",
+    "user_id": "U507",
+    "event_type": "page_view",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:29:00",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1990",
+    "user_id": "U507",
+    "event_type": "checkout_start",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:30:00"
+  },
+  {
+    "event_id": "E1991",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:31:00",
+    "page": "search"
+  },
+  {
+    "event_id": "E1992",
+    "user_id": "U502",
+    "event_type": "add_to_cart",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:32:00",
+    "product_id": "P110",
+    "page": "product_page"
+  },
+  {
+    "event_id": "E1993",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:33:00",
+    "search_query": "laptop"
+  },
+  {
+    "event_id": "E1994",
+    "user_id": "U503",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:34:00"
+  },
+  {
+    "event_id": "E1995",
+    "user_id": "U501",
+    "event_type": "page_view",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:35:00",
+    "page": "home"
+  },
+  {
+    "event_id": "E1996",
+    "user_id": "U507",
+    "event_type": "search",
+    "device": "tablet",
+    "timestamp": "2026-03-02T01:36:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1997",
+    "user_id": "U505",
+    "event_type": "checkout_start",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:37:00"
+  },
+  {
+    "event_id": "E1998",
+    "user_id": "U504",
+    "event_type": "search",
+    "device": "mobile",
+    "timestamp": "2026-03-02T01:38:00",
+    "search_query": "headphones"
+  },
+  {
+    "event_id": "E1999",
+    "user_id": "U503",
+    "event_type": "page_view",
+    "device": "desktop",
+    "timestamp": "2026-03-02T01:39:00",
+    "page": "search"
+  }
+]
