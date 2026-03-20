@@ -143,8 +143,10 @@ dbt run
 ## Project Structure
 ```
 catalys-de-assignment/
+├── .env                               # Environment variables (not committed)
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies for ETL
+├── venv/                              # Virtual environment (created during setup)
 ├── assignment/
 │   └── assignment.md                  # Assignment requirements
 ├── config/
