@@ -140,7 +140,7 @@ def upload_files(conn, stage_name, folder_path, table_name, tracking_table):
             continue
         logging.info(f"Uploading: {file_path}")
         query = f"""
-        PUT file://{file_path} @{stage_name} AUTO_COMPRESS=TRUE;
+        PUT file://{file_path} @{stage_name} AUTO_COMPRESS=FALSE;
         """
         execute_query(conn, query)
         loaded_files.append((file, checksum))
@@ -155,7 +155,7 @@ def copy_into(conn, table_name, stage_name, pattern, on_error, file_format):
     query = f"""
     COPY INTO {table_name}
     FROM @{stage_name}
-    FILE_FORMAT = (FORMAT_NAME = {file_format})
+    FILE_FORMAT = {file_format}
     PATTERN = '{pattern}'
     ON_ERROR = '{on_error}';
     """

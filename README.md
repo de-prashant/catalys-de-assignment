@@ -20,10 +20,17 @@ cd catalys-de-assignment
 ```
 
 ### 2. Install Python Dependencies
-It is recommended to use a virtual environment:
+For the main ETL pipeline, use a virtual environment in the root:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+For dbt transformations, use the isolated venv in the `dbt/` folder:
+```bash
+cd dbt
+venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
@@ -70,7 +77,8 @@ python etl/load_to_snowflake.py --table <table_name>
 - `ddl/` — DDL scripts for Snowflake tables
 - `data/` — Sample input datasets
 - `config/` — Ingestion configuration YAML
-- `requirements.txt` — Python dependencies
+- `dbt/` — dbt-core project for data transformations
+- `requirements.txt` — Python dependencies for ETL
 - `README.md` — Project documentation
 
 ## Data Quality & Reliability

@@ -1,7 +1,7 @@
 snowflake:
-  database: DE_ASSIGNMENT
-  schema: BRONZE
-  file_format: csv_format
+  database: CATALYS
+  schema: RAW
+  file_format: (TYPE = CSV)
 
 tables:
   - name: transactions
