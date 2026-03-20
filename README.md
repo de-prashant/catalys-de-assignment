@@ -80,7 +80,11 @@ SNOWFLAKE_ACCOUNT=<your_account>
 SNOWFLAKE_WAREHOUSE=<your_warehouse>
 SNOWFLAKE_DATABASE=CATALYS
 SNOWFLAKE_SCHEMA=RAW
+SNOWFLAKE_USER=<your_user>
+SNOWFLAKE_PASSWORD=<snowflake_password>
 SNOWFLAKE_TRACKING_TABLE=etl.file_load_tracking
+MONGODB_URI=<your_mongodb_connection_string>
+...
 ```
 
 ### 4. Configure Ingestion
